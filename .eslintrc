@@ -1,0 +1,8 @@
+{
+    "plugins": ["prettier"],
+    "rules": {
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"],
+        "prettier/prettier": "error" 
+    }
+}
